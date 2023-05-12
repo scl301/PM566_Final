@@ -503,7 +503,8 @@ cms$Region &lt;- as.factor(cms$Region)</code></pre>
   group_by(MDC, MDC_Desc) %&gt;%
   summarize(total_discharges = sum(Tot_Dschrgs)) %&gt;% 
   arrange(desc(total_discharges))</code></pre>
-<pre><code>## `summarise()` has grouped output by &#39;MDC&#39;. You can override using the `.groups` argument.</code></pre>
+<pre><code>## `summarise()` has grouped output by &#39;MDC&#39;. You can override using the `.groups`
+## argument.</code></pre>
 <pre class="r"><code>kable(national_avg_discharges, col.names = c(&quot;MDC Code&quot;, &quot;MDC Description&quot;, &quot;Total Annual Discharges&quot;), caption = &quot;Table 1. Total National Discharges By Diagnostic Category&quot;) %&gt;%
   kable_styling(bootstrap_options = c(&quot;striped&quot;, &quot;hover&quot;), full_width = F)</code></pre>
 <table class="table table-striped table-hover" style="width: auto !important; margin-left: auto; margin-right: auto;">
@@ -999,7 +1000,8 @@ discharges_by_region_mdc &lt;- cms %&gt;%
   group_by(Region, MDC_Desc) %&gt;%
   summarize(total_discharges = sum(Tot_Dschrgs)) %&gt;%
   ungroup()</code></pre>
-<pre><code>## `summarise()` has grouped output by &#39;Region&#39;. You can override using the `.groups` argument.</code></pre>
+<pre><code>## `summarise()` has grouped output by &#39;Region&#39;. You can override using the
+## `.groups` argument.</code></pre>
 <pre class="r"><code># get the top 5 MDCs with the highest total discharges for each region
 top_mdc &lt;- discharges_by_region_mdc %&gt;%
   group_by(Region) %&gt;%

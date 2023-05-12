@@ -1,5 +1,5 @@
 ---
-title: "PM 566 Final Project"
+title: "Understanding Factors Driving Variation in Medicare Inpatient Hospitalization Rates and Payments by Region and Diagnostic Category"
 author: "Stephanie Lee"
 output: 
     html_document:

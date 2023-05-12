@@ -1,1 +1,9 @@
-My PM566 Final Project Website
+This is my PM566 Final Project Website: Understanding Factors Driving Variation in Medicare Inpatient Hospitalization Rates and Payments by Region and Diagnostic Category
+
+Click here to go to the website.
+
+Medicare spending has become a significant concern for policymakers as it represented 16% of the federal budget and totaled \$796.2 billion in 2020. Inpatient hospitalizations are a major expense for Medicare, with $203.1 billion spent on them in 2018, accounting for 40% of all fee-for-service spending. The Medicare Inpatient Hospitals by Geography and Service dataset offers insights into healthcare utilization patterns and trends by Original Medicare Part A beneficiaries, which is crucial for understanding healthcare costs and usage by region and Medicare Severity Diagnosis Related Group (DRG).
+
+The exploratory analysis involved examining the publicly accessible Medicare Inpatient Hospitals by Geography and Service dataset from CMS, which contains information on hospital discharges for Original Medicare Part A beneficiaries by inpatient prospective payment system (IPPS) hospitals. The dataset is organized by geography and Medicare Severity Diagnosis Related Group (MS-DRG), a classification system used to group patients with similar diagnoses and treatments. The analysis involved examining tables, bar charts, and boxplots to identify patterns and trends in healthcare utilization, costs, and geographic variation.
+
+Further research was conducted to contextualize the findings and identify potential determinants of healthcare utilization and costs. The analysis revealed significant variation in healthcare utilization and costs by geographic region and MS-DRG. The findings suggest that there may be opportunities to improve healthcare delivery and reduce costs through targeted interventions, such as improved care coordination, disease management, and prevention efforts. These findings have important implications for policymakers, healthcare providers, and Medicare beneficiaries, as they highlight the need for ongoing efforts to monitor and address healthcare utilization and costs in the Medicare program.
