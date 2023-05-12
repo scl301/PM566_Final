@@ -1,6 +1,6 @@
 This is my PM566 Final Project Website: Understanding Factors Driving Variation in Medicare Inpatient Hospitalization Rates and Payments by Region and Diagnostic Category
 
-Click here to go to the website.
+Click [here](https://scl301.github.io/PM566_Final/index.html) to go to the website.
 
 Medicare spending has become a significant concern for policymakers as it represented 16% of the federal budget and totaled \$796.2 billion in 2020. Inpatient hospitalizations are a major expense for Medicare, with $203.1 billion spent on them in 2018, accounting for 40% of all fee-for-service spending. The Medicare Inpatient Hospitals by Geography and Service dataset offers insights into healthcare utilization patterns and trends by Original Medicare Part A beneficiaries, which is crucial for understanding healthcare costs and usage by region and Medicare Severity Diagnosis Related Group (DRG).
 
