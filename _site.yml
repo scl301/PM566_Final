@@ -1,5 +1,5 @@
 name: "my-website"
-output_dir: "."
+output_dir: "public_html"
 navbar:
   title: "PM 566 Final Project"
   left:
